@@ -27,10 +27,6 @@ function LandingPage() {
           <p>Your data is safe with industry‑standard protection.</p>
         </div>
       </section>
-
-      <footer className="footer">
-        <p>© 2026 My App. All rights reserved.</p>
-      </footer>
     </div>
   )
 }
