@@ -10,7 +10,7 @@ function Attendance() {
       .then(data => setCount(data))
   }, [])
 
-
+  
   return (
     <div>
       {count.map(i => (
